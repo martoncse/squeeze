@@ -1,0 +1,154 @@
+[
+  {
+    "pool": "honest (sender text)",
+    "pool_size": 181,
+    "batch": 50,
+    "flag_rate": 0.075,
+    "median_auroc": 0.415,
+    "batches": 40
+  },
+  {
+    "pool": "honest (sender text)",
+    "pool_size": 181,
+    "batch": 100,
+    "flag_rate": 0.1,
+    "median_auroc": 0.469,
+    "batches": 40
+  },
+  {
+    "pool": "honest (grounded rewrite)",
+    "pool_size": 181,
+    "batch": 50,
+    "flag_rate": 0.075,
+    "median_auroc": 0.406,
+    "batches": 40
+  },
+  {
+    "pool": "honest (grounded rewrite)",
+    "pool_size": 181,
+    "batch": 100,
+    "flag_rate": 0.05,
+    "median_auroc": 0.465,
+    "batches": 40
+  },
+  {
+    "pool": "plain prompt, stack A output",
+    "pool_size": 246,
+    "batch": 50,
+    "flag_rate": 0.025,
+    "median_auroc": 0.372,
+    "batches": 40
+  },
+  {
+    "pool": "plain prompt, stack A output",
+    "pool_size": 246,
+    "batch": 100,
+    "flag_rate": 0.075,
+    "median_auroc": 0.47,
+    "batches": 40
+  },
+  {
+    "pool": "plain prompt, stack A output",
+    "pool_size": 246,
+    "batch": 200,
+    "flag_rate": 0.025,
+    "median_auroc": 0.513,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs A, stack A output",
+    "pool_size": 379,
+    "batch": 50,
+    "flag_rate": 0.525,
+    "median_auroc": 0.634,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs A, stack A output",
+    "pool_size": 379,
+    "batch": 100,
+    "flag_rate": 1.0,
+    "median_auroc": 0.815,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs A, stack A output",
+    "pool_size": 379,
+    "batch": 200,
+    "flag_rate": 1.0,
+    "median_auroc": 0.922,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs B, stack B output",
+    "pool_size": 405,
+    "batch": 50,
+    "flag_rate": 0.25,
+    "median_auroc": 0.488,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs B, stack B output",
+    "pool_size": 405,
+    "batch": 100,
+    "flag_rate": 0.5,
+    "median_auroc": 0.594,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs B, stack B output",
+    "pool_size": 405,
+    "batch": 200,
+    "flag_rate": 1.0,
+    "median_auroc": 0.721,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs B, stack C output",
+    "pool_size": 341,
+    "batch": 50,
+    "flag_rate": 0.125,
+    "median_auroc": 0.433,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs B, stack C output",
+    "pool_size": 341,
+    "batch": 100,
+    "flag_rate": 0.4,
+    "median_auroc": 0.59,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs B, stack C output",
+    "pool_size": 341,
+    "batch": 200,
+    "flag_rate": 1.0,
+    "median_auroc": 0.671,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs C, stack C output",
+    "pool_size": 309,
+    "batch": 50,
+    "flag_rate": 0.3,
+    "median_auroc": 0.477,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs C, stack C output",
+    "pool_size": 309,
+    "batch": 100,
+    "flag_rate": 0.475,
+    "median_auroc": 0.587,
+    "batches": 40
+  },
+  {
+    "pool": "attack vs C, stack C output",
+    "pool_size": 309,
+    "batch": 200,
+    "flag_rate": 1.0,
+    "median_auroc": 0.694,
+    "batches": 40
+  }
+]

@@ -1,0 +1,3 @@
+data,summaries,pairs,oof_auroc,oof_pair_accuracy,pair_accuracy_attempt_ge5
+"Falcon schelling (accepted, budget 16)",280,140,0.677,"+0.704 [+0.629, +0.779] n=140",0.686 (n=51)
+Falcon honest (control),298,149,0.551,"+0.530 [+0.456, +0.601] n=149",

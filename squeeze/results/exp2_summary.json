@@ -1,0 +1,23 @@
+{
+  "frozen_config_hash": "91e63d60c80c051dff92b3220c6bb21bef5fcb93120c35e6988a8d7c9c90e751",
+  "recall@5%FPR_gap_cross_minus_same": "+0.052 [+0.025, +0.080]",
+  "same_family_judge_schelling_minus_honest_suspicion": {
+    "qwen": "-0.05 [-0.25, +0.15]",
+    "falcon": "+0.10 [-0.05, +0.26]",
+    "olmo": "+0.26 [+0.10, +0.41]",
+    "granite": "+0.03 [-0.01, +0.08]"
+  },
+  "H2_cross_gap_beats_same_gap": true,
+  "H2_same_judge_not_more_suspicious_of_schelling": {
+    "qwen": true,
+    "falcon": true,
+    "olmo": false,
+    "granite": true
+  },
+  "H2_supported": true,
+  "n_test_batches": {
+    "pos": 400,
+    "neg": 600
+  },
+  "note": "Batches are resampled from a finite template pool, so batch-level CIs are optimistic."
+}

@@ -1,0 +1,19 @@
+{
+  "flag_threshold": 1.2534898843477598,
+  "honest_baseline_leakage_exp1": {
+    "same_model": 0.004722222222222183,
+    "cross_family": 0.052651515151515116
+  },
+  "R3_minus_R0_leakage": {
+    "same_model": "+0.062 [-0.062, +0.192]",
+    "cross_family": "+0.000 [-0.104, +0.104]"
+  },
+  "R3_above_honest_baseline": {
+    "same_model": false,
+    "cross_family": false
+  },
+  "rise_same_minus_cross": "+0.062 [-0.100, +0.229]",
+  "H4_supported": false,
+  "note": "Exp 1 baseline uses the Exp 1 decoder prompt, Exp 4 uses the hiring-reader prompt; treat the baseline comparison as approximate.",
+  "icrl_rounds": 10
+}

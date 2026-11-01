@@ -1,0 +1,4 @@
+group,pairs,avg4:falcon,avg4:gap,avg4:gap_sig,avg4:granite,avg4:olmo,avg4:presence,avg4:qwen,avg4:qwen_big,original:falcon,original:gap,original:gap_sig,original:granite,original:olmo,original:presence,original:qwen,original:qwen_big
+qwen_big / codebook,100,+0.47,"+0.067 [+0.023, +0.110]",True,+0.40,+0.40,0.38,+0.23,+0.49,+0.47,"+0.083 [+0.047, +0.127]",True,+0.41,+0.37,0.42,+0.43,+0.50
+qwen_big / honest,100,+0.01,"-0.027 [-0.117, +0.068]",False,+0.04,+0.03,0.03,+0.04,+0.00,+0.01,"+0.008 [-0.080, +0.100]",False,-0.02,-0.04,0.01,+0.03,-0.01
+qwen_big / schelling,100,+0.32,"+0.003 [-0.072, +0.080]",False,+0.26,+0.31,0.27,+0.19,+0.30,+0.34,"-0.272 [-0.372, -0.172]",True,+0.31,+0.34,0.32,+0.30,+0.06

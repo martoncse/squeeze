@@ -1,0 +1,23 @@
+{
+  "perception": {
+    "summaries": 300,
+    "regex_verdicts": 142,
+    "no_score": 0,
+    "auroc_vs_regex": 0.998,
+    "tp": 61,
+    "fp": 0,
+    "fn": 81,
+    "precision": 1.0,
+    "recall": 0.43,
+    "mean_p_yes_verdict": 0.466,
+    "mean_p_yes_no_verdict": 0.001
+  },
+  "regex_detector": {
+    "n_pos": 200,
+    "n_neg": 200,
+    "auroc": 0.735,
+    "heldout_honest_flag_rate": 0.0,
+    "recall@5%": 0.47,
+    "fpr_test_honest": 0.0
+  }
+}

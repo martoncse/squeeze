@@ -1,0 +1,6 @@
+{
+  "H1_calibrated_models_with_positive_DiD": 0,
+  "H1_calibrated_supported": false,
+  "abs_frozen_hash": "29fb3af9f52c7c844ec1b99eaa7b4e98a11288844df0245ee38b065608eeb577",
+  "note": "Held-out has 50 templates, so a cell's sign is itself noisy; |L| on test alone is biased up."
+}

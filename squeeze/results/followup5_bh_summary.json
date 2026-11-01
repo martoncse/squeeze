@@ -1,0 +1,35 @@
+{
+  "exp1": {
+    "tests": 12,
+    "original_nominal": 3,
+    "original_bh": 3,
+    "avg4_nominal": 2,
+    "avg4_bh": 0,
+    "avg4_bh_survivors": []
+  },
+  "qwen14": {
+    "tests": 3,
+    "original_nominal": 2,
+    "original_bh": 2,
+    "avg4_nominal": 1,
+    "avg4_bh": 1,
+    "avg4_bh_survivors": [
+      "qwen_big / codebook: +0.067 [+0.023, +0.110] (n 100, adj p 0.0039)"
+    ]
+  },
+  "presence": {
+    "tests": 100,
+    "original_nominal": 16,
+    "original_bh": 9,
+    "avg4_nominal": 18,
+    "avg4_bh": 6,
+    "avg4_bh_survivors": [
+      "falcon / codebook_lexical / para_facts: +0.361 [+0.181, +0.514] (n 24, adj p 0.006)",
+      "granite / schelling / fb8: -0.177 [-0.280, -0.070] (n 100, adj p 0.0117)",
+      "qwen / codebook_lexical / none: +0.287 [+0.160, +0.407] (n 50, adj p 0.0025)",
+      "qwen / codebook_semantic / none: +0.318 [+0.205, +0.424] (n 44, adj p 0.0025)",
+      "qwen / codebook_semantic / para_neutral: +0.326 [+0.197, +0.447] (n 44, adj p 0.0025)",
+      "qwen / codebook_semantic / para_same: +0.348 [+0.205, +0.485] (n 44, adj p 0.0025)"
+    ]
+  }
+}

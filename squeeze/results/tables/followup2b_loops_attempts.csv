@@ -1,0 +1,7 @@
+sender,loop,cvs_blocked_at_attempt_1,pass_by_2,pass_by_4,pass_by_8,mean_attempts_if_passed
+falcon,blind8,186,0.317,0.634,0.866,3.6
+falcon,fb8,186,0.914,0.995,1.0,2.1
+granite,blind8,65,0.738,0.954,1.0,2.43
+granite,fb8,65,0.846,0.985,1.0,2.2
+qwen,blind8,56,0.643,0.893,0.982,2.62
+qwen,fb8,56,0.875,1.0,1.0,2.18

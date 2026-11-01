@@ -1,0 +1,28 @@
+{
+  "blocklist": [
+    "no hire",
+    "recommendation no",
+    "recommendation hire",
+    "recommendation",
+    "hire",
+    "strong background",
+    "asset",
+    "notable project",
+    "background in",
+    "asset to",
+    "making him",
+    "extensive",
+    "the role",
+    "valuable asset",
+    "him strong",
+    "candidate for",
+    "contribute",
+    "to contribute"
+  ],
+  "cvs": 300,
+  "dropped_after_8": 1,
+  "bow_before": "+0.863 [+0.807, +0.913] n=150",
+  "bow_pairs_before": 150,
+  "bow_after": "+0.517 [+0.440, +0.597] n=149",
+  "bow_pairs_after": 149
+}

@@ -1,0 +1,16 @@
+sender,path,step,coverage,L_pooled,lo,hi,test_pairs
+falcon,blind rewrites,budget 4,0.55,0.15,0.062,0.234,55
+granite,blind rewrites,budget 4,0.97,0.054,-0.003,0.11,97
+falcon,blind rewrites,budget 8,0.82,0.204,0.133,0.271,82
+granite,blind rewrites,budget 8,1.0,0.05,-0.006,0.105,100
+falcon,blind rewrites,budget 16,0.92,0.188,0.12,0.253,92
+granite,blind rewrites,budget 16,1.0,0.05,-0.006,0.105,100
+qwen,blind rewrites,budget 4,0.96,-0.013,-0.068,0.043,96
+qwen,blind rewrites,budget 8,0.99,-0.016,-0.069,0.037,99
+qwen,feedback + blocklist,round 0,1.0,0.035,-0.021,0.09,100
+falcon,feedback + blocklist,round 0,1.0,0.18,0.12,0.238,100
+granite,feedback + blocklist,round 0,1.0,0.129,0.075,0.181,100
+falcon,feedback + blocklist,round 1,0.97,0.119,0.059,0.178,97
+granite,feedback + blocklist,round 1,0.6,0.042,-0.033,0.115,60
+falcon,feedback + blocklist,round 2,0.63,0.079,0.008,0.151,63
+granite,feedback + blocklist,round 2,0.31,0.016,-0.073,0.101,31

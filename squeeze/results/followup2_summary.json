@@ -1,0 +1,12 @@
+{
+  "falcon": {
+    "stuck_after_4": 68,
+    "recovered_by_8": 43,
+    "recovered_by_16": 58
+  },
+  "granite": {
+    "stuck_after_4": 3,
+    "recovered_by_8": 3,
+    "recovered_by_16": 3
+  }
+}

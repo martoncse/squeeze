@@ -1,0 +1,9 @@
+# pip route; `uv sync` (pyproject.toml) is equivalent. Same convention as the starter repo's pip projects.
+-e ../util
+modal>=1.0
+openai>=1.40
+numpy>=1.25
+matplotlib>=3.8
+PyYAML>=6.0
+pytest>=7.4
+scikit-learn>=1.4

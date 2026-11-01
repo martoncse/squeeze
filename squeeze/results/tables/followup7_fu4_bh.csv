@@ -1,0 +1,4 @@
+group,pairs,self,others,avg4_gap,avg4_lo,avg4_hi,avg4_p,bh_adj_p,bh_survives,family_size
+FU4 matched / falcon / schelling / accepted rewrite,34,0.221,0.054,0.167,0.02,0.304,0.026297370262973702,0.1806,False,103
+FU4 matched / falcon / schelling / first draft scrubbed,34,0.206,0.127,0.078,-0.078,0.225,0.37646235376462356,0.7913,False,103
+FU4 matched / falcon / schelling / last draft scrubbed,34,0.265,0.098,0.167,0.0,0.314,0.053894610538946106,0.2771,False,103

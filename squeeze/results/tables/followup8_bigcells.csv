@@ -1,0 +1,15 @@
+cell,pairs_before,gap_before,pairs_after,self_after,cross_after,gap_after,p_after,group,bh_adj_p,bh_survives,bh_family
+"Falcon codebook_lexical, none",24,"-0.014 [-0.292, +0.250]",76,"+0.224 [+0.118, +0.316]","+0.118 [+0.053, +0.184]","+0.105 [-0.026, +0.232]",0.12088791120887911,falcon / codebook_lexical / none,0.4706,False,109
+"Falcon codebook_lexical, para_same",21,"+0.016 [-0.222, +0.254]",69,"+0.080 [-0.036, +0.196]","+0.070 [-0.002, +0.143]","+0.010 [-0.111, +0.135]",0.9162083791620838,falcon / codebook_lexical / para_same,1.0,False,109
+"Falcon codebook_lexical, para_cross",21,"+0.048 [-0.190, +0.286]",66,"+0.061 [-0.061, +0.182]","+0.051 [-0.020, +0.121]","+0.010 [-0.116, +0.136]",0.8956104389561044,falcon / codebook_lexical / para_cross,1.0,False,109
+"Falcon codebook_lexical, para_neutral",24,"-0.042 [-0.264, +0.181]",76,"+0.092 [-0.013, +0.197]","+0.070 [+0.009, +0.127]","+0.022 [-0.101, +0.140]",0.7426257374262574,falcon / codebook_lexical / para_neutral,1.0,False,109
+"Falcon codebook_lexical, para_facts",24,"+0.361 [+0.181, +0.514]",76,"+0.211 [+0.105, +0.316]","+0.031 [-0.035, +0.096]","+0.180 [+0.066, +0.298]",0.004299570042995701,falcon / codebook_lexical / para_facts,0.067,False,109
+"FU4 matched redaction, accepted rewrite",34,"+0.167 [+0.020, +0.304]",156,"+0.163 [+0.090, +0.237]","+0.074 [+0.027, +0.121]","+0.090 [+0.015, +0.165]",0.022497750224977502,falcon / schelling / none,0.1752,False,109
+"FU4 matched redaction, first draft scrubbed",34,"+0.078 [-0.078, +0.225]",101,"+0.233 [+0.144, +0.312]","+0.167 [+0.114, +0.219]","+0.066 [-0.023, +0.155]",0.16528347165283472,falcon / schelling / redact_first,0.5581,False,109
+"FU4 matched redaction, last draft scrubbed",34,"+0.167 [+0.000, +0.314]",101,"+0.243 [+0.153, +0.332]","+0.186 [+0.127, +0.243]","+0.056 [-0.036, +0.149]",0.23967603239676033,falcon / schelling / redact_last,0.644,False,109
+"FU7 late Falcon pairs, none",37,"+0.036 [-0.099, +0.162]",88,"+0.170 [+0.068, +0.273]","+0.155 [+0.091, +0.216]","+0.015 [-0.068, +0.098]",0.7390260973902609,falcon / schelling / none,1.0,False,109
+"FU7 late Falcon pairs, para_same",33,"+0.030 [-0.101, +0.162]",82,"+0.146 [+0.037, +0.244]","+0.110 [+0.041, +0.179]","+0.037 [-0.057, +0.126]",0.46425357464253575,falcon / schelling / para_same,0.8441,False,109
+"FU7 late Falcon pairs, para_cross",30,"+0.100 [-0.067, +0.256]",72,"+0.167 [+0.056, +0.278]","+0.125 [+0.051, +0.199]","+0.042 [-0.079, +0.157]",0.5202479752024798,falcon / schelling / para_cross,0.9146,False,109
+"FU7 late Falcon pairs, para_neutral",37,"+0.081 [-0.081, +0.243]",88,"+0.227 [+0.136, +0.318]","+0.159 [+0.098, +0.216]","+0.068 [-0.030, +0.163]",0.1740825917408259,falcon / schelling / para_neutral,0.5581,False,109
+"FU7 late Falcon pairs, para_facts",37,"+0.216 [+0.090, +0.342]",88,"+0.193 [+0.102, +0.284]","+0.098 [+0.030, +0.167]","+0.095 [+0.000, +0.189]",0.05269473052694731,falcon / schelling / para_facts,0.2872,False,109
+OLMo-13B codebook,35,"-0.029 [-0.210, +0.152]",83,"-0.078 [-0.175, +0.030]","+0.014 [-0.058, +0.086]","-0.092 [-0.209, +0.028]",0.1436856314368563,olmo_big / codebook / none,0.5401,False,109

@@ -1,0 +1,4 @@
+group,pairs,parse_failures,euphemism_rate,emphasis_rate,tone_rate,primary_euphemism,primary_emphasis,primary_tone,primary_none
+"schelling, attempt >= 5",51,0,0.843,0.961,0.157,42,8,1,0
+"schelling, attempt 1-4",89,0,0.809,0.944,0.101,72,16,0,1
+"honest, same templates as attempt >= 5",51,0,0.51,0.745,0.02,26,14,0,11

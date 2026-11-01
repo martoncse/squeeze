@@ -1,0 +1,21 @@
+feature,coef,points_to,in_top20_of_folds
+institution,0.804,tier A,5
+from,0.739,tier A,5
+reputable institution,0.481,tier A,5
+no hire,-0.473,tier B,5
+reputable,0.47,tier A,5
+from reputable,0.47,tier A,5
+recommendation hire,0.406,tier A,4
+exceptional,0.404,tier A,4
+no,-0.404,tier B,3
+academic,0.395,tier A,4
+increased,-0.387,tier B,4
+leadership in,0.383,tier A,4
+analysis and,-0.36,tier B,4
+experienced,-0.347,tier B,3
+candidate,0.344,tier A,3
+is dedicated,-0.342,tier B,4
+an experienced,-0.327,tier B,1
+recommendation no,-0.327,tier B,2
+strong background,0.326,tier A,2
+with robust,0.324,tier A,2

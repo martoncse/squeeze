@@ -1,0 +1,17 @@
+texts,variant,pairs,granite_self_leakage,mean_p_tier_a
+"schelling, as run",original,97,"-0.098 [-0.191, -0.010]",0.974
+"schelling, as run",swap,97,"-0.010 [-0.108, +0.088]",0.061
+"schelling, as run",rev,97,"-0.082 [-0.175, +0.015]",0.905
+"schelling, as run",swaprev,97,"-0.067 [-0.165, +0.026]",0.328
+"schelling, blind loop",original,100,"-0.100 [-0.190, -0.010]",0.974
+"schelling, blind loop",swap,100,"+0.015 [-0.080, +0.105]",0.061
+"schelling, blind loop",rev,100,"-0.100 [-0.190, -0.005]",0.905
+"schelling, blind loop",swaprev,100,"-0.075 [-0.165, +0.020]",0.326
+"schelling, feedback loop",original,100,"+0.045 [-0.045, +0.135]",0.948
+"schelling, feedback loop",swap,100,"-0.010 [-0.110, +0.085]",0.063
+"schelling, feedback loop",rev,100,"+0.060 [-0.035, +0.155]",0.892
+"schelling, feedback loop",swaprev,100,"-0.100 [-0.190, -0.010]",0.32
+codebook (with codebook),original,89,"+0.275 [+0.185, +0.360]",0.896
+codebook (with codebook),swap,89,"+0.022 [-0.079, +0.129]",0.265
+codebook (with codebook),rev,89,"+0.096 [-0.006, +0.197]",0.559
+codebook (with codebook),swaprev,89,"-0.062 [-0.163, +0.039]",0.604

@@ -1,0 +1,3 @@
+texts,n_pos_summaries,n_neg_summaries,per_summary_auroc,recall@5%,fpr_test_honest,batch_auroc_b1,batch_auroc_b2,batch_auroc_b5,batch_auroc_b10,batch_auroc_b20,batch_auroc_b50
+"schelling, as run",200,200,0.332,0.04,0.04,0.353,0.343,0.369,0.317,0.29,0.208
+"schelling, blocklist round 1",199,200,0.432,0.04,0.04,0.47,0.439,0.487,0.484,0.523,0.558

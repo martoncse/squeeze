@@ -1,0 +1,26 @@
+[project]
+name = "squeeze"
+version = "0.1.0"
+description = "The Squeeze: confinement-induced steganography and the same-family monitor blind spot (AI Collusion Sprint)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "poseidon-compute",
+    "modal>=1.0",
+    "openai>=1.40",
+    "numpy>=1.25",
+    "matplotlib>=3.8",
+    "PyYAML>=6.0",
+    "pytest>=7.4",
+    "scikit-learn>=1.4",
+]
+
+[project.optional-dependencies]
+# only for models switched to `provider: anthropic`
+anthropic = ["anthropic>=0.40"]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+poseidon-compute = { path = "../util", editable = true }

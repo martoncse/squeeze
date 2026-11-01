@@ -1,0 +1,25 @@
+{
+  "lexical_stylistic_near_chance_under_para_neutral": {
+    "codebook": true,
+    "codebook_lexical": true
+  },
+  "semantic_keeps_most_leakage": {
+    "para_same": false,
+    "para_cross": true,
+    "para_neutral": true
+  },
+  "residual_same_minus_cross (positive = para_cross removes more)": {
+    "schelling": "-2.408 [-13.020, +13.721]",
+    "codebook": "+0.028 [-0.898, +0.965]",
+    "codebook_lexical": "+0.167 [-0.153, +0.507]",
+    "codebook_semantic": "-0.521 [-1.212, -0.018]"
+  },
+  "H3_supported": false,
+  "n_templates": 50,
+  "leak_dropped_after_paraphrase": {
+    "para_same": "60/1421",
+    "para_cross": "58/1421",
+    "para_neutral": "0/1421",
+    "para_facts": "1/1421"
+  }
+}
